@@ -1,5 +1,5 @@
 header {
-    background-image: url("/images/hotel1.jpg");
+    background-image: url("/Hotel-website-project/images/hotel1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 13rem;
@@ -109,4 +109,90 @@ img {
 .section-four-img2 img {
     position: relative;
     bottom: 80px;
+}
+
+.section-five {
+    margin: 80px 0 30px 0;
+}
+
+.facilities h3 {
+    font-family: Raleway;
+    font-size: 40px;
+}
+
+.facilities p {
+    /* margin: 20px 160px 0 160px; */
+}
+
+.first-suite {
+    margin-top: 90px;
+}
+
+.first-suite-room {
+    padding: 80px;
+}
+
+.first-suite-room h4 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+.book-btn1 {
+    font-size: 15px;
+}
+
+.second-suite-room {
+    padding: 80px;
+}
+
+.second-suite-room h4 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+.book-btn2 {
+    font-size: 15px;
+}
+
+.third-suite-room {
+    padding: 60px;
+}
+
+.third-suite-room h4 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+.book-btn1,
+.book-btn2,
+.book-btn3 {
+    font-size: 15px;
+    width: 250px;
+    height: 60px;
+    border: .1rem solid rgb(21, 4, 65);
+    border-radius: 3px;
+    padding: 1rem;
+    background-color: rgb(21, 4, 65);
+    color: white;
+}
+
+.section-six {
+    padding: 150px;
+    background-image: url("/Hotel-website-project/images/hotel11-png.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(112, 55, 55);
+    color: white;
+}
+
+.restaurant-desc {
+    font-family: Raleway;
+    font-size: 40px;
+    margin-bottom: 40px;
 }
